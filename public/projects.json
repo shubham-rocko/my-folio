@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Online Text Editor",
+      "live": "https://text-editor-bc-cd7e867be109.herokuapp.com",
+      "git": "https://github.com/Youngobz/Text-Editor",
+      "image": "/text-editor.png",
+      "tech": "PWA: Mern"
+    },
+    {
+      "name": "Tech Blog",
+      "live": "https://tech-blog-bc-70d3f8824fea.herokuapp.com/",
+      "git": "https://github.com/Youngobz/Tech-Blog",
+      "image": "/tech-blog.png",
+      "tech": "Full Stack"
+    },
+    {
+      "name": "Travel Gem Explorer",
+      "live": "https://travelgem-explorer-6412c66d7631.herokuapp.com/",
+      "git": "https://github.com/Youngobz/travel-gem-explorer",
+      "image": "/travel-gem-explorer.png",
+      "tech": "Full Stack"
+    },
+    {
+      "name": "ORM E-Commerce",
+      "live": "/",
+      "git": "https://github.com/Youngobz/Object-Relational-Mapping-ORM-E-Commerce-Back-End",
+      "image": "/orm-e-commerce.png",
+      "tech": "Backend mysql"
+    }
+  ]

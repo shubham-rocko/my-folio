@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Front-end Proficiencies",
+        "list": [
+            {"id": 1, "name": "HTML"},
+            {"id": 2, "name": "CSS"},
+            {"id": 3, "name": "Javascript"},
+            {"id": 4, "name": "jQuery"},
+            {"id": 5, "name": "Responsive design"},
+            {"id": 6, "name": "React"},
+            {"id": 7, "name": "Bootstrap"},
+            {"id": 8, "name": "Handlebar"}
+        ]
+    },
+    {
+        "title": "Back-end Proficiencies",
+        "list": [
+            {"id": 1, "name": "Node"},
+            {"id": 2, "name": "Express"},
+            {"id": 3, "name": "SQL DB"},
+            {"id": 4, "name": "Mongo DB"}
+        ]
+    }
+
+]
